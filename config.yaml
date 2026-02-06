@@ -1,0 +1,4 @@
+datasets:
+- name: srtm-india
+  path: /app/data/srtm-india
+
